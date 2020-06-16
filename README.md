@@ -15,5 +15,5 @@ Unity Visual Effect Graph Simple Test4
 [VFX Graph でなんか作る（4月16日号） - Unityステーション](https://www.youtube.com/watch?v=6Ff7S4ocNGs&feature=youtu.be&t=1455)   
 この動画で_kzrさんがやってるのを、一通りやって見た。  
 
-# ライセンス
-[MIT license](https://en.wikipedia.org/wiki/MIT_License).  
+# License
+[Unlicense](https://unlicense.org/)
