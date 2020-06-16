@@ -6,7 +6,8 @@ Unity Visual Effect Graph Simple Test4
 - SampleScene2  
 [![Image from Gyazo](https://i.gyazo.com/107f54d84d9e3678a2985cdf11756667.gif)](https://gyazo.com/107f54d84d9e3678a2985cdf11756667)
 - SampleScene3  
-[![Image from Gyazo](https://i.gyazo.com/1b8c417e95c3666dbea980e9320e9431.gif)](https://gyazo.com/1b8c417e95c3666dbea980e9320e9431)  
+[![Image from Gyazo](https://i.gyazo.com/55ae4430b461462d1033d98b889467af.gif)](https://gyazo.com/55ae4430b461462d1033d98b889467af)
+
 # 必要要件
 - Unity 2019.4.0f1 or later
 
