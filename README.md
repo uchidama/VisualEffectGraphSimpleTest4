@@ -8,6 +8,14 @@ Unity Visual Effect Graph Simple Test4
 - SampleScene3  
 [![Image from Gyazo](https://i.gyazo.com/55ae4430b461462d1033d98b889467af.gif)](https://gyazo.com/55ae4430b461462d1033d98b889467af)
 
+# objファイルからPointCacheファイルを作成する
+1. BlenderなどでobjファイルをExportする
+2. objファイルをUnityのAssetにドラッグ＆ドロップして追加する
+3. Window -> Visual Effects -> Utilities -> Point Cache Bake Tool を選択
+[![Image from Gyazo](https://i.gyazo.com/4d9d25e9f8d5ceb45e4d6168d02292c0.png)](https://gyazo.com/4d9d25e9f8d5ceb45e4d6168d02292c0)
+4. Meshを選択。Save to pCache fileボタンを押してPointCacheファイルを保存。
+[![Image from Gyazo](https://i.gyazo.com/316ab6c3490387565d4e71d8b868ccb8.png)](https://gyazo.com/316ab6c3490387565d4e71d8b868ccb8)
+
 # 必要要件
 - Unity 2019.4.0f1 or later
 
